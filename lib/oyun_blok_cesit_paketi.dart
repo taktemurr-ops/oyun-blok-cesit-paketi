@@ -94,7 +94,7 @@ const blokCesitleri = <BlokCesit>[
       'กระดานเล็ก มือไว',
       'Bàn nhỏ, tay nhanh',
       'Maliit na board, mabilis na kamay',
-    ], 6, 0, [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 12], const [], Color(0xFFEF5350), Icons.crop_square_rounded),
+    ], 6, 0, [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 12], const [], Color(0xFFE2574C), Icons.crop_square_rounded),
   BlokCesit('yedili', ['Yedili Tahta', 'Seven Board', 'Siebener-Brett', 'Tablero de Siete', 'Plateau Sept',
       // ar fa he ur ru uk pl cs ro hu el it pt nl sv da nb fi ja ko zh hi bn id ms th vi fil
       'لوح السبعة',
@@ -155,7 +155,7 @@ const blokCesitleri = <BlokCesit>[
       'เกมสมดุลบน 7x7',
       'Trò cân bằng trên bàn 7x7',
       'Laro ng balanse sa 7x7',
-    ], 7, 0, [], const [], Color(0xFFAB47BC), Icons.grid_4x4_rounded),
+    ], 7, 0, [], const [], Color(0xFF9763BC), Icons.grid_4x4_rounded),
   BlokCesit('genis-9', ['Geniş 9x9', 'Wide 9x9', 'Weites 9x9', 'Amplio 9x9', 'Large 9x9',
       // ar fa he ur ru uk pl cs ro hu el it pt nl sv da nb fi ja ko zh hi bn id ms th vi fil
       '‏9x9 عريض',
@@ -216,7 +216,7 @@ const blokCesitleri = <BlokCesit>[
       '9x9 กว้างขวาง ไม่มีช่อง',
       '9x9 rộng rãi, không ô',
       'Maluwag na 9x9, walang kahon',
-    ], 9, 0, [], const [], Color(0xFF5C6BC0), Icons.grid_on_rounded),
+    ], 9, 0, [], const [], Color(0xFF4C63A8), Icons.grid_on_rounded),
   BlokCesit('buyuk-10', ['Büyük 10x10', 'Big 10x10', 'Groß 10x10', 'Grande 10x10', 'Grand 10x10',
       // ar fa he ur ru uk pl cs ro hu el it pt nl sv da nb fi ja ko zh hi bn id ms th vi fil
       'كبير 10x10',
@@ -277,7 +277,7 @@ const blokCesitleri = <BlokCesit>[
       'กว้างขึ้น คอมโบใหญ่ขึ้น',
       'Rộng hơn, combo lớn hơn',
       'Mas maluwag, mas malaking combo',
-    ], 10, 0, [], const [], Color(0xFF42A5F5), Icons.apps_rounded),
+    ], 10, 0, [], const [], Color(0xFF3075C4), Icons.apps_rounded),
   BlokCesit('dev-12', ['Dev 12x12', 'Giant 12x12', 'Riesig 12x12', 'Gigante 12x12', 'Géant 12x12',
       // ar fa he ur ru uk pl cs ro hu el it pt nl sv da nb fi ja ko zh hi bn id ms th vi fil
       'عملاق 12x12',
@@ -338,7 +338,7 @@ const blokCesitleri = <BlokCesit>[
       'กระดานยักษ์สำหรับเล่นยาว',
       'Bàn cờ khổng lồ để chơi lâu',
       'Higanteng board para sa mahabang laro',
-    ], 12, 0, [], const [], Color(0xFF26A69A), Icons.view_module_rounded),
+    ], 12, 0, [], const [], Color(0xFF2BA39A), Icons.view_module_rounded),
   BlokCesit('cizgiler', ['Çizgiler', 'Lines Only', 'Nur Linien', 'Solo Líneas', 'Que des Lignes',
       // ar fa he ur ru uk pl cs ro hu el it pt nl sv da nb fi ja ko zh hi bn id ms th vi fil
       'خطوط فقط',
@@ -399,7 +399,7 @@ const blokCesitleri = <BlokCesit>[
       'ชิ้นตรงเท่านั้น',
       'Chỉ mảnh thẳng',
       'Tuwid na piraso lang',
-    ], 8, 0, [0, 1, 2, 3, 4, 10, 11, 17, 18], const [], Color(0xFF66BB6A), Icons.drag_handle_rounded),
+    ], 8, 0, [0, 1, 2, 3, 4, 10, 11, 17, 18], const [], Color(0xFF4E9A5E), Icons.drag_handle_rounded),
   BlokCesit('koseler', ['Köşeler', 'Corners', 'Ecken', 'Esquinas', 'Coins',
       // ar fa he ur ru uk pl cs ro hu el it pt nl sv da nb fi ja ko zh hi bn id ms th vi fil
       'الزوايا',
@@ -460,7 +460,7 @@ const blokCesitleri = <BlokCesit>[
       'ชิ้นตัว L และมุม',
       'Mảnh chữ L và góc',
       'Mga pirasong L at sulok',
-    ], 8, 0, [0, 5, 6, 7, 8, 13, 14, 19], const [], Color(0xFF9CCC65), Icons.turn_right_rounded),
+    ], 8, 0, [0, 5, 6, 7, 8, 13, 14, 19], const [], Color(0xFF86A84A), Icons.turn_right_rounded),
   BlokCesit('kareler', ['Kareler', 'Squares', 'Quadrate', 'Cuadrados', 'Carrés',
       // ar fa he ur ru uk pl cs ro hu el it pt nl sv da nb fi ja ko zh hi bn id ms th vi fil
       'مربعات',
@@ -521,7 +521,7 @@ const blokCesitleri = <BlokCesit>[
       'ชิ้นสี่เหลี่ยมบน 9x9',
       'Mảnh vuông trên bàn 9x9',
       'Parisukat na piraso sa 9x9',
-    ], 9, 0, [0, 1, 2, 9, 20], const [], Color(0xFFD4E157), Icons.square_rounded),
+    ], 9, 0, [0, 1, 2, 9, 20], const [], Color(0xFFB9B03A), Icons.square_rounded),
   BlokCesit('dortlu', ['Dörtlüler', 'Fours', 'Vierer', 'Cuatros', 'Quatre',
       // ar fa he ur ru uk pl cs ro hu el it pt nl sv da nb fi ja ko zh hi bn id ms th vi fil
       'الرباعيات',
@@ -582,7 +582,7 @@ const blokCesitleri = <BlokCesit>[
       'ชิ้นสี่ช่องบน 10x10',
       'Mảnh bốn ô trên bàn 10x10',
       'Apat-na-kahong piraso sa 10x10',
-    ], 10, 0, [9, 10, 11, 12, 13, 14, 15, 16], const [], Color(0xFFFFCA28), Icons.extension_rounded),
+    ], 10, 0, [9, 10, 11, 12, 13, 14, 15, 16], const [], Color(0xFFE0A42E), Icons.extension_rounded),
   BlokCesit('besli', ['Uzun Parçalar', 'Long Pieces', 'Lange Teile', 'Piezas Largas', 'Pièces Longues',
       // ar fa he ur ru uk pl cs ro hu el it pt nl sv da nb fi ja ko zh hi bn id ms th vi fil
       'قطع طويلة',
@@ -643,7 +643,7 @@ const blokCesitleri = <BlokCesit>[
       'เส้นยาวและตัว L ใหญ่',
       'Thanh dài và chữ L lớn',
       'Mahahabang linya at malalaking L',
-    ], 10, 0, [0, 1, 2, 3, 4, 17, 18, 19, 20], const [], Color(0xFFFFA726), Icons.straighten_rounded),
+    ], 10, 0, [0, 1, 2, 3, 4, 17, 18, 19, 20], const [], Color(0xFFE8853A), Icons.straighten_rounded),
   BlokCesit('kolay', ['Kolay Parçalar', 'Easy Pieces', 'Leichte Teile', 'Piezas Fáciles', 'Pièces Faciles',
       // ar fa he ur ru uk pl cs ro hu el it pt nl sv da nb fi ja ko zh hi bn id ms th vi fil
       'قطع سهلة',
@@ -704,7 +704,7 @@ const blokCesitleri = <BlokCesit>[
       'ไม่เกินสามช่อง สบาย ๆ',
       'Tối đa ba ô, thư thả',
       'Hanggang tatlong kahon, relaks',
-    ], 8, 0, [0, 1, 2, 3, 4, 5, 6, 7, 8], const [], Color(0xFF8D6E63), Icons.spa_rounded),
+    ], 8, 0, [0, 1, 2, 3, 4, 5, 6, 7, 8], const [], Color(0xFF9C6644), Icons.spa_rounded),
   BlokCesit('iri', ['İri Parçalar', 'Chunky Pieces', 'Dicke Teile', 'Piezas Grandes', 'Grosses Pièces',
       // ar fa he ur ru uk pl cs ro hu el it pt nl sv da nb fi ja ko zh hi bn id ms th vi fil
       'قطع ضخمة',
@@ -765,7 +765,7 @@ const blokCesitleri = <BlokCesit>[
       'ชิ้นใหญ่เท่านั้น 10x10',
       'Chỉ mảnh to, 10x10',
       'Malalaking piraso lang, 10x10',
-    ], 10, 0, [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20], const [], Color(0xFF78909C), Icons.widgets_rounded),
+    ], 10, 0, [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20], const [], Color(0xFF6C8EAD), Icons.widgets_rounded),
   BlokCesit('dort-kutu', ['Dört Kutu', 'Four Boxes', 'Vier Felder', 'Cuatro Cajas', 'Quatre Cases',
       // ar fa he ur ru uk pl cs ro hu el it pt nl sv da nb fi ja ko zh hi bn id ms th vi fil
       'أربعة مربعات',
@@ -826,7 +826,7 @@ const blokCesitleri = <BlokCesit>[
       '8x8 ช่อง 4x4 ก็หายไปได้',
       '8x8, ô 4x4 cũng được xóa',
       '8x8, nawawala rin ang 4x4 na kahon',
-    ], 8, 4, [], const [], Color(0xFFEC407A), Icons.window_rounded),
+    ], 8, 4, [], const [], Color(0xFFD9577F), Icons.window_rounded),
   BlokCesit('ikili-kutu', ['İkili Kutular', 'Twin Boxes', 'Zweier-Felder', 'Cajas Dobles', 'Cases Doubles',
       // ar fa he ur ru uk pl cs ro hu el it pt nl sv da nb fi ja ko zh hi bn id ms th vi fil
       'مربعات مزدوجة',
@@ -887,7 +887,7 @@ const blokCesitleri = <BlokCesit>[
       '6x6 ช่อง 2x2 หายไปได้',
       '6x6, ô 2x2 được xóa',
       '6x6, nawawala ang 2x2 na kahon',
-    ], 6, 2, [0, 1, 2, 3, 4, 5, 6, 7, 8, 9], const [], Color(0xFFF06292), Icons.dashboard_rounded),
+    ], 6, 2, [0, 1, 2, 3, 4, 5, 6, 7, 8, 9], const [], Color(0xFFE58FB0), Icons.dashboard_rounded),
   BlokCesit('dev-kutu', ['Dev Kutular', 'Giant Boxes', 'Riesenfelder', 'Cajas Gigantes', 'Cases Géantes',
       // ar fa he ur ru uk pl cs ro hu el it pt nl sv da nb fi ja ko zh hi bn id ms th vi fil
       'مربعات عملاقة',
@@ -948,7 +948,7 @@ const blokCesitleri = <BlokCesit>[
       '12x12 พร้อมช่อง 4x4',
       '12x12 có ô 4x4',
       '12x12 na may 4x4 na kahon',
-    ], 12, 4, [], const [], Color(0xFF7E57C2), Icons.view_quilt_rounded),
+    ], 12, 4, [], const [], Color(0xFF7E5BB5), Icons.view_quilt_rounded),
   BlokCesit('besli-kutu', ['Beşli Kutular', 'Five Boxes', 'Fünfer-Felder', 'Cajas de Cinco', 'Cases de Cinq',
       // ar fa he ur ru uk pl cs ro hu el it pt nl sv da nb fi ja ko zh hi bn id ms th vi fil
       'مربعات خماسية',
@@ -1009,7 +1009,7 @@ const blokCesitleri = <BlokCesit>[
       '10x10 พร้อมช่อง 5x5',
       '10x10 có ô 5x5',
       '10x10 na may 5x5 na kahon',
-    ], 10, 5, [], const [], Color(0xFF29B6F6), Icons.grid_view_rounded),
+    ], 10, 5, [], const [], Color(0xFF1A8BBB), Icons.grid_view_rounded),
   BlokCesit('kolay-sudoku', ['Kolay Sudoku', 'Easy Sudoku', 'Leichtes Sudoku', 'Sudoku Fácil', 'Sudoku Facile',
       // ar fa he ur ru uk pl cs ro hu el it pt nl sv da nb fi ja ko zh hi bn id ms th vi fil
       'سودوكو سهل',
@@ -1070,7 +1070,7 @@ const blokCesitleri = <BlokCesit>[
       'ช่อง 9x9 ชิ้นเล็ก',
       'Ô 9x9, mảnh nhỏ',
       '9x9 na kahon, maliliit na piraso',
-    ], 9, 3, [0, 1, 2, 3, 4, 5, 6, 7, 8], const [], Color(0xFF26C6DA), Icons.grid_3x3_rounded),
+    ], 9, 3, [0, 1, 2, 3, 4, 5, 6, 7, 8], const [], Color(0xFF2BB3B1), Icons.grid_3x3_rounded),
   BlokCesit('tasli', ['Taşlı Tahta', 'Stone Board', 'Steinbrett', 'Tablero de Piedra', 'Plateau de Pierre',
       // ar fa he ur ru uk pl cs ro hu el it pt nl sv da nb fi ja ko zh hi bn id ms th vi fil
       'لوح الحجارة',
@@ -1131,7 +1131,7 @@ const blokCesitleri = <BlokCesit>[
       'เล่นรอบ ๆ หิน',
       'Xếp quanh đá',
       'Iwasan ang mga bato',
-    ], 7, 0, [], ['obstacle'], Color(0xFF6D4C41), Icons.landscape_rounded),
+    ], 7, 0, [], ['obstacle'], Color(0xFF8A5A3C), Icons.landscape_rounded),
   BlokCesit('buzlu', ['Buzlu Tahta', 'Ice Board', 'Eisbrett', 'Tablero de Hielo', 'Plateau Glacé',
       // ar fa he ur ru uk pl cs ro hu el it pt nl sv da nb fi ja ko zh hi bn id ms th vi fil
       'لوح الجليد',
@@ -1192,7 +1192,7 @@ const blokCesitleri = <BlokCesit>[
       'ทุบน้ำแข็งสองครั้ง',
       'Đập băng hai lần',
       'Basagin ang yelo nang dalawang beses',
-    ], 8, 0, [], ['ice'], Color(0xFF4FC3F7), Icons.ac_unit_rounded),
+    ], 8, 0, [], ['ice'], Color(0xFF5FA8D3), Icons.ac_unit_rounded),
   BlokCesit('elmas', ['Elmas Avı', 'Gem Hunt', 'Edelsteinjagd', 'Caza de Gemas', 'Chasse aux Gemmes',
       // ar fa he ur ru uk pl cs ro hu el it pt nl sv da nb fi ja ko zh hi bn id ms th vi fil
       'صيد الجواهر',
@@ -1253,7 +1253,7 @@ const blokCesitleri = <BlokCesit>[
       'เคลียร์แถวที่มีอัญมณี',
       'Xóa các hàng có đá quý',
       'Linisin ang mga hanay na may hiyas',
-    ], 8, 0, [], ['gem'], Color(0xFF00BFA5), Icons.diamond_rounded),
+    ], 8, 0, [], ['gem'], Color(0xFF1B998B), Icons.diamond_rounded),
 ];
 
 const _howTo = [
@@ -1408,7 +1408,7 @@ final blokCesitGroup = HubGroup(
       'bàn và bộ mảnh',
       'mga board at set ng piraso',
     ],
-  seedColor: const Color(0xFFFF7043),
+  seedColor: const Color(0xFFCF5B4E),
   icon: Icons.dashboard_customize_rounded,
   games: blokCesitConfigs,
 );
