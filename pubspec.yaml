@@ -16,7 +16,7 @@ dependencies:
   game_001_block_puzzle_master:
     git:
       url: https://github.com/taktemurr-ops/game-001-block-puzzle-master
-      ref: dc9510ae1e51c2cfff97eb251e3ef0799186d8a1
+      ref: 6103cca590f3ccf07f9e0f3530929d555026d814
 
 dependency_overrides:
   studio_core:
