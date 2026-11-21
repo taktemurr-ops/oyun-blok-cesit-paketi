@@ -1,0 +1,30 @@
+name: oyun_blok_cesit_paketi
+description: "Blok Çeşit Paketi – 20 tahta ve parça varyantı. Blok Oyunları merkez uygulamasının oyunları."
+publish_to: none
+version: 1.0.0
+
+environment:
+  sdk: ">=3.6.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  studio_core:
+    git:
+      url: https://github.com/taktemurr-ops/studio-core
+      ref: 6080e4b00e322e2191d0358100b4b48b4a1fc883
+  game_001_block_puzzle_master:
+    git:
+      url: https://github.com/taktemurr-ops/game-001-block-puzzle-master
+      ref: dc9510ae1e51c2cfff97eb251e3ef0799186d8a1
+
+dependency_overrides:
+  studio_core:
+    git:
+      url: https://github.com/taktemurr-ops/studio-core
+      ref: 6080e4b00e322e2191d0358100b4b48b4a1fc883
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
