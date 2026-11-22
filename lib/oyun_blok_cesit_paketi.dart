@@ -1030,7 +1030,7 @@ const blokCesitleri = <BlokCesit>[
       'Let sudoku',
       'Lett sudoku',
       'Helppo sudoku',
-      'やさしい数独',
+      'やさしいナンバープレース',
       '쉬운 스도쿠',
       '简单数独',
       'आसान सुडोकू',
